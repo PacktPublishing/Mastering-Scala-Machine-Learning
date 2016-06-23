@@ -1,6 +1,8 @@
 # Mastering Scala Machine Learning
 Supporting material (code, libs etc) for [Mastering Scala Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/mastering-scala-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785880889
 ) (Packtpub Publishing).
+
+
 This book is based on open source software. First, it's Java. One can download Java 
 from Oracle's Java Download page. You have to accept the license and choose an 
 appropriate image for your platform. Don't use OpenJDK—it has a few problems 
@@ -23,5 +25,6 @@ and Python version 2.7.11 in this book
 
 ##Related books
 [Scala for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/scala-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781785281372)
+
 [Scala for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783558742)
 
